@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123505586066",
+    "project_id": "qlnv-12713",
+    "storage_bucket": "qlnv-12713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123505586066:android:0f08fc11db45625cd11b4b",
+        "android_client_info": {
+          "package_name": "com.example.quanlynv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB684-Gfvq0bfMqbWVfKXsQBQWj8id5dcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
